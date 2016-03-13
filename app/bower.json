@@ -1,0 +1,15 @@
+{
+  "name": "book-viewer",
+  "description": "A simple viewer with book page style.",
+  "authors": [
+    "yojolo <contact@ylemouel.me>"
+  ],  
+  "license": "MIT",
+  "homepage": "",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular-material": "^1.0.6",
+    "angular-route": "^1.5.0",
+    "angular": "^1.5.0"
+  }
+}
